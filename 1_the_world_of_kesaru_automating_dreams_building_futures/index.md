@@ -1,5 +1,5 @@
 ---
-title: "The World of Kesaru: Automating Dreams, Building Futures"
+title: "#1 Hey! Mama Kesaru"
 slug: the-world-of-kesaru-automating-dreams-building-futures
 publishedDate: August 9, 2025
 readTime: 8 min read
