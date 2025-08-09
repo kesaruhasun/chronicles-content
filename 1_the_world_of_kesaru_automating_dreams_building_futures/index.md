@@ -13,7 +13,7 @@ tags:
   - Skills
   - Vision
 excerpt: Dive into the world of Kesaru Hasun Dhanasinghe, an automation enthusiast, AI visionary, and software developer. Discover his unique journey, skills, and aspirations for a fully automated future.
-mainImage: images/1_main_image_kesaru_hasun.jpg
+mainImage: images/1_main_image_kesaru_hasun.png
 imageAlt: Kesaru Hasun Dhanasinghe's profile or a relevant automation image
 ---
 
