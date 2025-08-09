@@ -18,7 +18,7 @@ imageAlt: Kesaru Hasun Dhanasinghe's profile or a relevant automation image
 ---
 
 
-Hello there! I'm Kesaru Hasun Dhanasinghe, and while I have countless stories to share, I'll focus on the ones that truly define my journey and aspirations. So, who am I in the present, before we delve into the past or future?
+Hello! , (මම කෙසරු)I'm Kesaru, and while I have countless stories to share, I'll focus on the ones that truly define my journey and aspirations. So, who am I in the present, before we delve into the past or future?
 
 I'm a high school graduate and currently an undergraduate student at SLIIT Malabe. While my academic path has its unique twists, my core passion lies in the boundless world of automation.
 
