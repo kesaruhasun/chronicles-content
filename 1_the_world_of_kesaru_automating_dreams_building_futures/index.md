@@ -17,7 +17,6 @@ mainImage: images/1_main_image_kesaru_hasun.jpg
 imageAlt: Kesaru Hasun Dhanasinghe's profile or a relevant automation image
 ---
 
-## The World of Kesaru: Automating Dreams, Building Futures
 
 Hello there! I'm Kesaru Hasun Dhanasinghe, and while I have countless stories to share, I'll focus on the ones that truly define my journey and aspirations. So, who am I in the present, before we delve into the past or future?
 
