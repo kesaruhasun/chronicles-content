@@ -22,7 +22,7 @@ Hello there! I'm Kesaru Hasun Dhanasinghe, and while I have countless stories to
 
 I'm a high school graduate and currently an undergraduate student at SLIIT Malabe. While my academic path has its unique twists, my core passion lies in the boundless world of automation.
 
-### My Vision: Automate Everything (Responsibly!)
+### My Vision: Automate Everything
 
 I genuinely believe there's nothing in this world that cannot be automated. My ultimate goal? To automate every task imaginable. Yes, I understand the sci-fi fears, but my vision is about empowering humanity, freeing us from mundane routines, and creating a future where "SOLO-preneurs" thrive, supported by intelligent AI agents handling tasks and sub-tasks. It's a grand dream, currently in the thinking stage, but one I'm committed to bringing to life.
 
