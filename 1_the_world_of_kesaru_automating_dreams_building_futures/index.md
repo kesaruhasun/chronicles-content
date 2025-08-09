@@ -33,7 +33,7 @@ My hands-on experience with automation began early. I've worked on several proje
 
 However, I soon realized that many people harbor a fear of automation. Perhaps I started in the wrong place, but I'm now driven to mitigate this fear, demonstrating how automation can be a powerful tool for good.
 
-Currently, I'm working as a freelance software developer, tackling UI enhancements and building practical applications like barcode readers. On the side, I'm developing a fully automated system for social media content creation and posting. Imagine: you input a topic like "What are the things you should know as a Vibe Coder," and AI handles the research, content generation, and even posting, all with your consent.
+Currently, I'm working as a freelance software developer, tackling UI enhancements and building practical applications like barcode readers. On the side, I'm developing a fully automated system for social media content creation and posting. Imagine: you input a topic like "What are the things you should know as a Vibe Coder", and AI handles the research, content generation, and even posting, all with your consent.
 
 ### My Toolkit: Skills & Expertise
 
