@@ -1,3 +1,4 @@
+```
 # Prompt for Converting an Article to "The Chronicles of Kesaru" Format
 
 **Objective:** To convert any given article into the specific format and style of "The Chronicles of Kesaru" blog posts.
@@ -83,3 +84,5 @@ When you generate the output, ensure you have:
     *   The introduction is welcoming.
     *   The conclusion provides a wrap-up.
 3.  **Formatted the final output** inside a single markdown block.
+
+```
