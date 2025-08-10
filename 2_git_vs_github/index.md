@@ -45,6 +45,9 @@ Here's the simplest way to remember it:
 
 You use **Git** to save and track your changes, and you use **GitHub** to share your work and work with a team.
 
+```bash
+git init
+```
 ### Fun Fact
 
 Did you know that Git was created by Linus Torvalds, the same genius who created Linux? He built it back in 2005 because he needed a fast and reliable way to manage the development of the Linux kernel.
