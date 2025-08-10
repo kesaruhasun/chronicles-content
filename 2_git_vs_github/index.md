@@ -25,9 +25,8 @@ Think of Git as a powerful tool on your computer. It’s like a magic "undo" but
 *   **Saves your work:** It keeps a history of every change you make to your files.
 *   **Lets you go back in time:** If you mess something up, you can easily revert to a previous version.
 
-```
+
 Basically, Git is your personal assistant for tracking changes in your code.
-```
 
 ### What is GitHub?
 

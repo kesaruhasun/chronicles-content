@@ -46,7 +46,7 @@ My skills are a reflection of my problem-solving approach: I learn what's needed
 *   **Web Technologies:** Proficient in debugging PHP, Node.js, and MERN stack websites from my IT Support background at a major web hosting company. I can also debug and code in **React Frontend**.
 *   **Linux & Terminal:** Extensive experience with Linux operating systems, particularly Ubuntu (my favorite for its reliability and security) and macOS (my favorite UNIX OS). I'm comfortable with terminal commands and Bash scripting.
 *   **DevOps & Version Control:** Highly skilled in **Git and GitHub**, currently working on CI/CD automation for this very website.
-*   **Automation Tools:** Experienced with **Python Selenium Automation** and some **PowerShell**.
+*   **Automation Tools:** Experienced with **Python Selenium Automation**.
 *   **Cybersecurity Interests:** From a young age, I've been fascinated by exploring system functionalities and understanding how software interacts at a deeper level.
 
 ### Beyond the Code: Interests & Inspirations
