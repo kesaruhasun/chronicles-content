@@ -16,7 +16,7 @@ excerpt: Dive into the world of Kesaru Hasun Dhanasinghe, an automation enthusia
 mainImage: images/1_main_image_kesaru_hasun.png
 imageAlt: Kesaru Hasun Dhanasinghe's profile or a relevant automation image
 ---
-
+![[1_main_image_kesaru_hasun.png]]
 
 Hello! , (මම කෙසරු) I'm Kesaru. I speak Sinhala and to those who are not familiar, those are Sinhalese characters to say I am Kesaru.
 While I have countless stories to share, I'll focus on the ones that truly define my journey and aspirations. So, who am I in the present, before we delve into the past or future?
