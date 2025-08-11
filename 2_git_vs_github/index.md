@@ -6,9 +6,11 @@ readTime: 3 min read
 tags:
   - Git
   - GitHub
-  - Version Control
-  - Developer Tools
-excerpt: A simple breakdown of the difference between Git and GitHub. Understand what they are, how they work, and why you need both.
+  - Version
+  - Control
+  - Developer
+  - Tools
+excerpt: 🔧💻 Confused about Git and GitHub? You're not alone. Whether you're just starting out in coding or brushing up on your developer toolkit, understanding the difference between Git and GitHub is essential—but often misunderstood. Git is your behind-the-scenes powerhouse for tracking changes and managing your code history locally, while GitHub is the online stage where collaboration and sharing come to life. In this post, we’ll break down what each one does, how they work together, and why mastering both can supercharge your workflow. No jargon, no fluff—just a clear, beginner-friendly guide to help you feel confident in your coding journey.
 mainImage: images/git-vs-github.png
 imageAlt: An image showing the logos of Git and GitHub with a vs sign in between.
 ---
