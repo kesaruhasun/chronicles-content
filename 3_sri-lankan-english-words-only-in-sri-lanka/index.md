@@ -44,6 +44,7 @@ Think of it as a map of meaning, not a fence.
 
 These are the expressions that taste, sound, and move like home. 
 
+
 | Word | Meaning in Sri Lanka | Notes | International equivalent |
 | --- | --- | --- | --- |
 | Hoppers | Bowl-shaped fermented pancakes | “Egg hoppers” have an egg in the center | No exact equivalent |
