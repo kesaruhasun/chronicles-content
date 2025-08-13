@@ -1,5 +1,5 @@
 ---
-title: "#001 The Sri Lankan English we grew up with"
+title: "#3 The Sri Lankan English we grew up with"
 slug: sri-lankan-english-words-only-in-sri-lanka
 publishedDate: August 13, 2025
 readTime: 8 min read
