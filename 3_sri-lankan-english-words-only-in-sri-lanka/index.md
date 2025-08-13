@@ -42,7 +42,7 @@ Think of it as a map of meaning, not a fence.
 
 ### Words that carry the island 
 
-These are the expressions that taste, sound, and move like home.
+These are the expressions that taste, sound, and move like home. 
 
 | Word | Meaning in Sri Lanka | Notes | International equivalent |
 | --- | --- | --- | --- |
