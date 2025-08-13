@@ -40,7 +40,7 @@ Not every Sri Lankanism is globally unique, but theyâ€™re locally precise. Hereâ
 
 Think of it as a map of meaning, not a fence.
 
-### Words that carry the island
+### Words that carry the island 
 
 These are the expressions that taste, sound, and move like home.
 
