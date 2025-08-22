@@ -16,7 +16,7 @@ mainImage: images/sri-lankan-english-chronicles.png
 imageAlt: A collage of Sri Lankan street signs, food labels, and a trishaw illustrating Sri Lankan English words.
 ---
 
-Hey there! I’m Kesaru—born and raised in Sri Lanka, but my English grew up on three diets: schoolbooks and exam papers, TV series and paperbacks, and cousins who’d fly in with crisp accents and casual slang. That mix is exactly how I started wondering: why do we say “short eats” when everyone on TV says “snacks”? Why does a “hotel” serve hoppers? And why did even our English teachers disagree—one insisting “do the needful” was correct, another saying it wasn’t? I kept asking: so what is correct?
+Hey there! I’m Kesaru—born and raised in Sri Lanka, mother toungue is Sinhala, and my English grew up on three diets: schoolbooks and exam papers, TV series and paperbacks, and cousins who’d fly in with crisp accents and casual slang. That mix is exactly how I started wondering: why do we say “short eats” when everyone on TV says “snacks”? Why does a “hotel” serve hoppers? And why did even our English teachers disagree—one insisting “do the needful” was correct, another saying it wasn’t? I kept asking: so what is correct?
 
 The answer that finally calmed me down: English is international. It has variations. Sri Lankan English is one of them—legitimate, lived, and loved. This post is my field guide to the words we grew up with, the ones that make sense here first, and only later everywhere else.
 
