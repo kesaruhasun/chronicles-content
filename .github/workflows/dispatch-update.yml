@@ -1,4 +1,4 @@
-name: Dispatch Blog Content Update
+name: Dispatch Update to kesaru_me
 
 on:
   push:
@@ -7,12 +7,11 @@ on:
 
 jobs:
   dispatch:
-    name: Dispatch Blog Update
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch repository_dispatch event
+      - name: Dispatch update_blog_content event
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          token: ${{ secrets.REPO_ACCESS_TOKEN }} # A PAT with repo scope for kesaru_me
           repository: kesaruhasun/kesaru_me
           event-type: update_blog_content
